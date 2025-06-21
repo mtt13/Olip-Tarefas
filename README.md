@@ -52,15 +52,6 @@ Se você deseja estudar, modificar ou contribuir com o código:
     ```bash
     python assistente.pyw
     ```
+ [Screenshot_12](https://github.com/user-attachments/assets/6173e351-a25d-4ed9-a5fc-6a0e32bdb31d)
+ [Screenshot_11](https://github.com/user-attachments/assets/5194ad5c-a9f5-4944-9c13-25cd76391ba4)
 
----
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Você pode adicionar uma licença MIT facilmente no GitHub clicando em "Add file" -> "Create new file" e digitando `LICENSE` como nome do arquivo).
-
----
-
-## 🙏 Agradecimentos
-
-* Um agradecimento especial ao **Gemini do Google**, que atuou como um mentor e assistente de programação ao longo de toda a jornada de desenvolvimento deste projeto.
