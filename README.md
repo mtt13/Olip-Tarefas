@@ -28,7 +28,7 @@ Existem duas maneiras de usar o Olip Assistant: como um usuário final ou como u
 
 Para quem quer apenas usar o programa, basta baixar o instalador e executar!
 
-1.  **Baixe o instalador `setup.exe`:** [**CLIQUE AQUI PARA BAIXAR VIA MEDIAFIRE**](URL_DO_SEU_LINK_DO_MEDIAFIRE_AQUI)
+1.  **Baixe o instalador `setup.exe`:** [**CLIQUE AQUI PARA BAIXAR VIA MEDIAFIRE**](https://www.mediafire.com/file/nxyoa7x6bzi2ps3/setup.exe/file)
 2.  Execute o arquivo baixado e siga as instruções de instalação.
 3.  Um atalho será criado na sua área de trabalho. Pronto para usar!
 
@@ -38,11 +38,11 @@ Se você deseja estudar, modificar ou contribuir com o código:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_NOME_DE_USUARIO/Assistente-Pessoal-Python.git](https://github.com/mtt13/Assistente-Pessoal-Python.git)
+    git clone [https://github.com/mtt13/Olip-Tarefas.git](https://github.com/mtt13/Olip-Tarefas.git)
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd Assistente-Pessoal-Python
+    cd Olip-Tarefas
     ```
 3.  **Instale as dependências:**
     ```bash
