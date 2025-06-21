@@ -52,6 +52,6 @@ Se você deseja estudar, modificar ou contribuir com o código:
     ```bash
     python assistente.pyw
     ```
- [Screenshot_12](https://github.com/user-attachments/assets/6173e351-a25d-4ed9-a5fc-6a0e32bdb31d)
- [Screenshot_11](https://github.com/user-attachments/assets/5194ad5c-a9f5-4944-9c13-25cd76391ba4)
 
+![Screenshot_11](https://github.com/user-attachments/assets/c6a1c9d3-6ce8-4e97-8939-4fe44b3ce361)
+![Screenshot_12](https://github.com/user-attachments/assets/e754e661-4764-42d9-8a0d-f50ae5b85b25)
